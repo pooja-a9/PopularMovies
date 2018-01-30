@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular_movies">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="movie_title_lable">Title:</string>
+    <string name="movie_desc_lable">Plot Synopsis:</string>
+    <string name="release_date_lable">Release Date:</string>
+    <string name="vote_avg_lable">Vote Average:</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="favourite_movies">Favourite Movies</string>
+    <string name="network_error">An error occured. Try again by clicking Refresh</string>
+    <string name="db_error">No Favourite movies</string>
+</resources>
