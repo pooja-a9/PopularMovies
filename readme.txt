@@ -1,1 +1,0 @@
-Please add your MovieDB api_Key in com.example.sweetie.popularmovies.utilities.NetworkUtils in variable API_KEY_VALUE
