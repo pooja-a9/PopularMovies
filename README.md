@@ -13,3 +13,5 @@ Anyone who wants to see latest Movie details, trailers, ratings  and user review
 •	Sort movies by Date of release and ratings
 •	Save favorite movies
 •	Play trailers of a movie
+
+# Instructions to Run
